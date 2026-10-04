@@ -1,0 +1,6 @@
+{
+  "name": "جزوه جامع مهندسی ترانزیستورها",
+  "description": "راهنمای تعاملی و جزوه صفر تا صد ترانزیستورها با دیاگرام‌های متحرک، شبیه‌ساز مداری، فیزیک اتمی و مرجع ویدیویی The Engineering Mindset",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
